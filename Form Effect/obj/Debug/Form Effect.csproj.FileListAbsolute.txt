@@ -1,0 +1,9 @@
+c:\users\mrt_b\source\repos\Form Effect\Form Effect\bin\Debug\Form Effect.exe.config
+c:\users\mrt_b\source\repos\Form Effect\Form Effect\bin\Debug\Form Effect.exe
+c:\users\mrt_b\source\repos\Form Effect\Form Effect\bin\Debug\Form Effect.pdb
+c:\users\mrt_b\source\repos\Form Effect\Form Effect\obj\Debug\Form_Effect.Form1.resources
+c:\users\mrt_b\source\repos\Form Effect\Form Effect\obj\Debug\Form_Effect.Properties.Resources.resources
+c:\users\mrt_b\source\repos\Form Effect\Form Effect\obj\Debug\Form Effect.csproj.GenerateResource.cache
+c:\users\mrt_b\source\repos\Form Effect\Form Effect\obj\Debug\Form Effect.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\Form Effect\Form Effect\obj\Debug\Form Effect.exe
+c:\users\mrt_b\source\repos\Form Effect\Form Effect\obj\Debug\Form Effect.pdb
